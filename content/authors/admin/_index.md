@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xuerui (Sherry) Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Delft University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am Xuerui (Sherry) Wang, an assistant professor (tenure tracker) in the Faculty of Aerospace Engineering, Delft University of Technology. I strive to optimize aircraft design through interdisciplinary research on interactions among structural dynamics, aerodynamics, flight dynamics and automatic control systems. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonlinear flight control 
+- Aeroelasticity
+- Aerial robotics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Aerospace Engineering
+    institution: Delft University of Technology
+    year: 2019
+  - course: BSc in Aerospace Engineering
+    institution: Beihang University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Xuerui (Sherry) Wang, an assistant professor (tenure tracker) in the Faculty of Aerospace Engineering, Delft University of Technology. I strive to optimize aircraft design through interdisciplinary research on interactions among structural dynamics, aerodynamics, flight dynamics and automatic control systems. 

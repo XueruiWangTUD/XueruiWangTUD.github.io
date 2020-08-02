@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Professor"
+  company = "Delft University of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  location = "Delft, the Netherlands"
+  date_start = "2019-05-01"
+  description = """ 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Postdoctoral Researcher"
+  company = "Delft University of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Delft, the Netherlands"
+  date_start = "2019-05-01"
+  date_end = "2020-05-01"
+  description = """ 
+  As a postdoctoral researcher in the department of aerospace structures and materials, I focuses on the active control of flexible aircraft. In the field of aeroservoelasticity, I strive to make aircraft more efficient and safer with the help of advanced automatic control theories. This post-doc project is sponsored by Airbus.
+  """
+
+[[experience]]
+  title = "Research and Teaching Assistant"
+  company = "Delft University of Technology"
+  company_url = ""
+  location = "Delft, the Netherlands"
+  date_start = "2016-03-01"
+  date_end = "2019-03-01"
+  description = """ 
+  * Supervising two master students on control theory and flight control applications.
+  * Teaching assistant of Instrumentation & Signals (AE2235-II) for three consecutive years. 
+  """
+
+[[experience]]
+  title = "Structure Design Engineer"
+  company = "Beihang Aeromodeling Team"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2011-03-01"
+  date_end = "2013-12-31"
+  description = """Responsable for structure design; participated in flight tests. Third prize in European Air Cargo Challenge 2013.."""
 
 +++
