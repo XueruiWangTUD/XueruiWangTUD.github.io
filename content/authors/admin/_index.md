@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xuerui (Sherry) Wang
+title: Xuerui Wang
 
 # Username (this should match the folder name)
 authors:
@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Xuerui (Sherry) Wang, an assistant professor (tenure tracker) in the Faculty of Aerospace Engineering, Delft University of Technology. I strive to optimize aircraft design through interdisciplinary research on interactions among structural dynamics, aerodynamics, flight dynamics and automatic control systems. 
-
+bio: 
 interests:
 - Nonlinear flight control 
 - Aeroelasticity
@@ -67,4 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I am Xuerui (Sherry) Wang, an assistant professor (tenure tracker) in the Faculty of Aerospace Engineering, Delft University of Technology. I strive to optimize aircraft design through interdisciplinary research on interactions among structural dynamics, aerodynamics, flight dynamics and automatic control systems. 
+I am Xuerui (Sherry) Wang, an assistant professor (tenure tracker) in the Faculty of Aerospace Engineering, Delft University of Technology. I strive to optimize aircraft design through interdisciplinary research on interactions among structural dynamics, aerodynamics, flight dynamics and automatic control systems.
+
