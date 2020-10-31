@@ -2,10 +2,10 @@
 title: "Quadrotor fault tolerant incremental sliding mode control driven by sliding mode disturbance observers"
 authors:
 - Xuerui Wang
-- Sihao Sun
+- admin
 - Erik-Jan van Kampen
 - Qiping Chu
-date: "2019-04-01T00:00:00Z"
+date: "2017-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ url_pdf: https://www.researchgate.net/publication/331584654_Quadrotor_Fault_Tole
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "The damaged quadrotor flies in the wind tunnel"
+  caption: "Comparison between the proposed approach and the other two benchmark methods in tracking a pitch command."
   focal_point: ""
   preview_only: false
 
@@ -57,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- AircraftFTC
+- QuadrotorFTC
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

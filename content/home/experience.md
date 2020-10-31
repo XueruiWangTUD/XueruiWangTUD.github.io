@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Delft, the Netherlands"
   date_start = "2019-05-01"
-  description = """ 
+  description = """ My tenure track program is co-funded by the department of aerospace structures and materials (AS&M) and the department of control and operations (C&O).
   """
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-05-01"
   description = """ 
-  As a postdoctoral researcher in the department of aerospace structures and materials, I focuses on the active control of flexible aircraft. In the field of aeroservoelasticity, I strive to make aircraft more efficient and safer with the help of advanced automatic control theories. This post-doc project is sponsored by Airbus.
+  As a postdoctoral researcher in the Smart and Aeroelastic Structure Lab, I focused on the active control of flexible aircraft. In the field of aeroservoelasticity, I strived to make aircraft more efficient and safer with the help of advanced control methods.
   """
 
 [[experience]]
@@ -44,10 +44,7 @@ date_format = "Jan 2006"
   location = "Delft, the Netherlands"
   date_start = "2016-03-01"
   date_end = "2019-03-01"
-  description = """ 
-  * Supervising two master students on control theory and flight control applications.
-  * Teaching assistant of Instrumentation & Signals (AE2235-II) for three consecutive years. 
-  """
+  description = """I was the teaching assistant of Instrumentation & Signals (AE2235-II) for three consecutive years. I also supervised two master thesis projects in nonlinear control theory and applications."""
 
 [[experience]]
   title = "Structure Design Engineer"
@@ -56,6 +53,6 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2011-03-01"
   date_end = "2013-12-31"
-  description = """Responsable for structure design; participated in flight tests. Third prize in European Air Cargo Challenge 2013.."""
+  description = """Won Bronze medal in the European Air Cargo Challenge (ACC) 2013. I was responsable for structure design, manufacturing, and testing. """
 
 +++

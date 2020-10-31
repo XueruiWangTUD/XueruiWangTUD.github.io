@@ -5,7 +5,7 @@ authors:
 - Leon Sijbers
 - Xuerui Wang
 - Coen de Visser
-date: "2018-06-01T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_short: In *IEEE RA-L*
 abstract: In order to achieve high-speed flight of a damaged quadrotor with complete loss of a single rotor, a multiloop hybrid nonlinear controller is designed. By fully making use of sensor measurements, the model dependence of this control method is reduced, which is conducive to handling disturbance from the unknown aerodynamic effects. This controller is tested on a quadrotor vehicle with one rotor completely removed in the high-speed condition. Free flights are performed in the Open Jet Facility, a large-scale wind tunnel. Over 9 m/s flight speed is reached for the damaged quadrotor in these tests. In addition, several high-speed spin-induced aerodynamic effects are discovered and analyzed.
 
 # Summary. An optional shortened abstract.
-summary: We designed a flight controller to achieve high-speed flight of a quadrotor with one rotor completely off. Flight tests in the wind tunnel show robustness of our controller in presence of significant aerodynamic effects.
+summary: We propose a flight controller to achieve high-speed flights of a quadrotor with one rotor entirely off. Flight tests in the wind tunnel show robustness of our controller in the presence of significant aerodynamic effects.
 
 tags:
 # - Source Themes
@@ -57,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- AircraftFTC
+- QuadrotorFTC
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
