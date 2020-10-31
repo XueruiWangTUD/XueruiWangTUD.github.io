@@ -2,7 +2,7 @@
 title: "Quadrotor fault tolerant incremental sliding mode control driven by sliding mode disturbance observers"
 authors:
 - Xuerui Wang
-- admin
+- Sihao Sun
 - Erik-Jan van Kampen
 - Qiping Chu
 date: "2019-04-01T00:00:00Z"
