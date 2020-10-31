@@ -1,7 +1,7 @@
 ---
 title: "High-speed flight of quadrotor despite loss of single rotor"
 authors:
-- admin
+- Sihao Sun
 - Leon Sijbers
 - Xuerui Wang
 - Coen de Visser

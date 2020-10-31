@@ -1,7 +1,7 @@
 ---
 title: "Incremental Nonlinear Fault-Tolerant Control of a Quadrotor With Complete Loss of Two Opposing Rotors"
 authors:
-- admin
+- Sihao Sun
 - Xuerui Wang
 - Qiping Chu
 - Coen de Visser
