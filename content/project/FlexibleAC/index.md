@@ -1,8 +1,8 @@
 ---
 title: Flexible Aircraft Control
-summary: In this project, we design a set of fault-tolerant control algorithms to stabilize and control a quadrotor with complete loss of one or more rotors in realistic scenarios, such as withstanding significant unmodeled aerodynamic effects in high-speed flights.
+summary: In this project, we design nonlinear control algorithms for high aspect-ratio aircraft with the interactions among aerodynamics, structural dynamics, and flight dynamics. 
 tags:
-- Fault Tolerant Flight Control
+- Flexible Aircraft Control
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,12 +30,16 @@ url_video: ""
 slides: example
 ---
 
-As the most commonly used and simplest multi-rotor drones, quadrotors are
-especially vulnerable to rotor failures because they lack rotor redundancy. This project aims at introducing novel flight control methods to mitigate the consequence of in-flight motor failures, which rarely happens but is still a big safety threat after large scale deployment of drones in the future.
+Increasing the aspect-ratio of the wing is a trend in modern commercial aircraft design. This increase is beneficial for the aerodynamic performance of the aircraft. Moreover, to reduce the airframe weight, composite materials are widely used in modern aircraft. For example, the Boeing 787 Dreamliner aircraft uses 80% composite by volume, and 50% composite by weight. Although composite materials provide the same load-carrying capacity with less structural weight, the resulting structural rigidity also decreases. With the coaction of high aspect-ratio and wide usage of composite materials, modern commercial aircraft are becoming more and more flexible. 
 
-To be specific, the project leverages incremental nonlinear dynamic inversion (INDI) control method, to stabilize and control a quadrotor with failure of a [**single rotor**](/publication/highspeedral/) or [**two opposing rotors**](/publication/incrementalnonlinear/), under significant aerodynamic disturbances. These strong aerodynamic effects are dominant in high-speed flight, or windy conditions. Thanks to the robustness of the INDI controller, the damaged quadrotor maintains controllable in spite of these aeordynamic disturbances.
+This trend leads to considerable interactions among aerodynamics, structural dynamics, and flight dynamics. If not harnessed properly, the interactions can lead to severe structural vibrations and even instabilities. In view of this, we conduct interdisciplinary research on flexible aircraft dynamic control with multiple objectives:
 
-We have validated the proposed controllers in a large scale wind tunnel, named [**Open Jet Facility**](https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/facilities/low-speed-wind-tunnels/open-jet-facility/) at TU Delft. Despite a complete loss of one or two propellers, the tested quadrotor can maintain high-speed flight. In addition to validating the controller, these wind tunnel flight tests have produced valuable data for identifying [**aerodynamic models**](/project/quadrotormodeling) of a quadrotor, in both nominal and damaged conditions.
+Flutter suppression 
+Gust and maneuver load alleviation 
+Handling quality and passenger comfort enhancement
+Automatic trajectory control
+Fault-tolerant control
 
-Another focus of the research aims at recovering the damaged quadrotor after motor failure. When a motor failure is detected, a quadrotor might have been entered a detrimental flight condition, such as an upside-down orientation, where the drone can hardly recover to stable flights using the state-of-art methods.
-Therefore, we have developed an [**upset recovery controller**](/publication/upsetrecovery/), using a novel control allocation approach.
+
+
+

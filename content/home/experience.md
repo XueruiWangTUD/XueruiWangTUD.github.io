@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Delft, the Netherlands"
   date_start = "2019-05-01"
-  description = """ My tenure track program is co-funded by the department of aerospace structures and materials (AS&M) and the department of control and operations (C&O).
+  description = """ My tenure track program is co-funded by the Department of Aerospace Structures and Materials (AS&M) and the Department of Control and Operations (C&O).
   """
 
 [[experience]]

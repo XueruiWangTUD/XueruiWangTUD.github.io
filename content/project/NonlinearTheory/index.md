@@ -1,8 +1,8 @@
 ---
 title: Nonlinear Control Theory
-summary: In this project, we design a set of fault-tolerant control algorithms to stabilize and control a quadrotor with complete loss of one or more rotors in realistic scenarios, such as withstanding significant unmodeled aerodynamic effects in high-speed flights.
+summary: In this project, we analyze the closed-loop stabiltiy and robustness of systems under nonlinear control, using Lyapunov methods and the nonlinear system perturbation theory.
 tags:
-- Fault Tolerant Flight Control
+- Nonlinear Control Theory
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,12 +30,8 @@ url_video: ""
 slides: example
 ---
 
-As the most commonly used and simplest multi-rotor drones, quadrotors are
-especially vulnerable to rotor failures because they lack rotor redundancy. This project aims at introducing novel flight control methods to mitigate the consequence of in-flight motor failures, which rarely happens but is still a big safety threat after large scale deployment of drones in the future.
+This page contains our contributions to the control community. We proposed a new sensor-based incremental control framework for generic multi-input and multi-output nonlinear systems with an arbitrary relative degree. The closed-loop stability in the presence of model uncertainties and external disturbances are proved using Lyapunov methods. The robustness of the system to regular and singular perturbations are also analyzed. 
 
-To be specific, the project leverages incremental nonlinear dynamic inversion (INDI) control method, to stabilize and control a quadrotor with failure of a [**single rotor**](/publication/highspeedral/) or [**two opposing rotors**](/publication/incrementalnonlinear/), under significant aerodynamic disturbances. These strong aerodynamic effects are dominant in high-speed flight, or windy conditions. Thanks to the robustness of the INDI controller, the damaged quadrotor maintains controllable in spite of these aeordynamic disturbances.
+For mitigating the chattering effect in the sliding mode control (SMC), many adaptation mechanisms have been proposed to reduce the switching gains. However, less attention is paid to the control structure, which influences the resulting uncertainty term and determines the minimum possible gains. Our research compares three control structures for inducing higher-order sliding modes in finite time: nonlinear dynamic inversion (NDI) based SMC, higher-order sliding mode control (HOSMC) with artificially increased relative degree, and the recently proposed incremental nonlinear dynamic inversion (INDI) based SMC. 
 
-We have validated the proposed controllers in a large scale wind tunnel, named [**Open Jet Facility**](https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/facilities/low-speed-wind-tunnels/open-jet-facility/) at TU Delft. Despite a complete loss of one or two propellers, the tested quadrotor can maintain high-speed flight. In addition to validating the controller, these wind tunnel flight tests have produced valuable data for identifying [**aerodynamic models**](/project/quadrotormodeling) of a quadrotor, in both nominal and damaged conditions.
-
-Another focus of the research aims at recovering the damaged quadrotor after motor failure. When a motor failure is detected, a quadrotor might have been entered a detrimental flight condition, such as an upside-down orientation, where the drone can hardly recover to stable flights using the state-of-art methods.
-Therefore, we have developed an [**upset recovery controller**](/publication/upsetrecovery/), using a novel control allocation approach.
+We also define the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).

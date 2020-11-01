@@ -1,15 +1,15 @@
 ---
 title: Seamless Active Morphing Wing
-summary: In this project, we design a set of fault-tolerant control algorithms to stabilize and control a quadrotor with complete loss of one or more rotors in realistic scenarios, such as withstanding significant unmodeled aerodynamic effects in high-speed flights.
+summary: In this project, we design, manufacture, and test (in a wind tunnel) a wing which can morph actively and seamlessly. 
 tags:
-- Fault Tolerant Flight Control
+- Seamless Active Morphing Wing
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: A quadrotor flies with 3 propellers.
+  caption: The SmartX_Alpha in the wind tunnel.
   focal_point: Smart
 
 # links:
@@ -29,13 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Active morphing indicates the ability to transform structural shape in a controlled way. Inspired by birds, the active morphing wing can adapt its shape in different flight conditions for optimizing the aerodynamic performance. Moreover, wing morphing surfaces can be used as direct lift control devices for alleviating the structural loads caused by gusts and maneuvers. Furthermore, wing morphing can execute flight control commands with reduced drag. 
 
-As the most commonly used and simplest multi-rotor drones, quadrotors are
-especially vulnerable to rotor failures because they lack rotor redundancy. This project aims at introducing novel flight control methods to mitigate the consequence of in-flight motor failures, which rarely happens but is still a big safety threat after large scale deployment of drones in the future.
+The Smart and Aeroelastic Structure research group in Delft University of Technology has designed, manufactured, and tested a seamless active morphing wing named SmartX-Alpha. It has six translation-induced camber morphing trailing edge modules, interconnected seamlessly by elastomer materials. Each one of the modules is executed by two independent servos, which allows both camber and twist morphings. The wing is made in fiberGlass weave material, and its laminate design is optimized by a fluid-structure  interaction tool. 
 
-To be specific, the project leverages incremental nonlinear dynamic inversion (INDI) control method, to stabilize and control a quadrotor with failure of a [**single rotor**](/publication/highspeedral/) or [**two opposing rotors**](/publication/incrementalnonlinear/), under significant aerodynamic disturbances. These strong aerodynamic effects are dominant in high-speed flight, or windy conditions. Thanks to the robustness of the INDI controller, the damaged quadrotor maintains controllable in spite of these aeordynamic disturbances.
+The SmartX-Alpha prototype won the Student Hardware Competition in the American Society of Mechanical Engineers (ASME) 2020 conference on smart materials, adaptive structures and intelligent systems. 
 
-We have validated the proposed controllers in a large scale wind tunnel, named [**Open Jet Facility**](https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/facilities/low-speed-wind-tunnels/open-jet-facility/) at TU Delft. Despite a complete loss of one or two propellers, the tested quadrotor can maintain high-speed flight. In addition to validating the controller, these wind tunnel flight tests have produced valuable data for identifying [**aerodynamic models**](/project/quadrotormodeling) of a quadrotor, in both nominal and damaged conditions.
-
-Another focus of the research aims at recovering the damaged quadrotor after motor failure. When a motor failure is detected, a quadrotor might have been entered a detrimental flight condition, such as an upside-down orientation, where the drone can hardly recover to stable flights using the state-of-art methods.
-Therefore, we have developed an [**upset recovery controller**](/publication/upsetrecovery/), using a novel control allocation approach.
