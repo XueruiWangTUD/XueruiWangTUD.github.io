@@ -1,31 +1,29 @@
 ---
-title: "Stability Analysis for Incremental Nonlinear Dynamic Inversion Control"
+title: "The Effects of Aeroelastic Tailoring on Flight Dynamic Stability"
 authors:
+- Mario ﻿Natella
 - Xuerui Wang
-- Erik-Jan van Kampen
-- Qiping Chu
-- Lu Peng
-date: "2019-02-28T00:00:00Z"
+- Roeland De Breuker
+date: "2018-01-08T00:00:00Z"
 doi: ""
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-02-28T00:00:00Z"
+publishDate: "2018-01-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*﻿Journal of Guidance, Control, and Dynamics, 2019, 42*"
-publication_short: In *JGCD*
+publication: "*2018 AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference*"
+publication_short: In *AIAA/ASCE/AHS/ASC-2018*
 
-abstract: ﻿As a sensor-based control method, incremental nonlinear dynamic inversion (INDI) has been applied to various aerospace systems and has shown desirable robust performance against aerodynamic model uncertainties. However, its previous derivation based on the time scale separation principle has some limitations. There is also a need for stability and robustness analysis for INDI. Therefore, this paper reformulates the INDI control law without using the time scale separation principle and generalizes it for systems with arbitrary relative degree, with consideration ofthe internal dynamics. The stability of the closed-loop system in the presence of external disturbances is analyzed using Lyapunov methods and nonlinear system perturbation theory. Moreover, the robustness of the closed-loop system against regular and singular perturbations is analyzed. Finally, this reformulated INDI control law is verified by a Monte Carlo simulation for an aircraft command tracking problem in the presence of external disturbances and model uncertainties.
-
+abstract: This paper presents a unified framework for aeroelastic tailoring of free-flying aircraft with composite wings. A continuous-time state-space model is used to describe the flow. The 3D composite wing structure is condensed into a Timoshenko beam model by means of a cross-sectional modeler. The aerodynamic and structural models are closely coupled with the six degrees of freedom flight dynamic equations of motion in the state-space formulation. This paper refers to the clamped-wing aeroelastic tailoring as classic aeroelastic tailoring. Hence, the term aeroelastic tailoring will point at the novel approach that includes free-flying aeroelastic phenomena into the optimization process. The emphasis of the present paper is to show the effects of aeroelastic tailoring on body-freedom flutter and flight dynamic stability at large. The results of this paper will be used in the further development of aeroelastic tailoring practices for composite aircraft design.
 # Summary. An optional shortened abstract.
-summary: This paper proposes an incremental control framework, and analyzes the closed-loop stability and robustness in the Lyapunov sense.
+summary: This paper presents a unified framework for aeroelastic tailoring of free-flying aircraft with composite wings. The effects of aeroelastic tailoring on body-freedom flutter and flight dynamic stability are analyzed.
 tags:
 # - Source Themes
 featured: false
@@ -33,7 +31,7 @@ featured: false
 # links:
 # - name: IEEE Spectrum
 #   url: https://spectrum.ieee.org/automaton/robotics/drones/quadrotor-maintains-high-speed-flight-with-just-three-rotors
-url_pdf: https://arc.aiaa.org/doi/10.2514/1.G003791
+url_pdf: https://arc.aiaa.org/doi/10.2514/6.2018-0191
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -46,7 +44,7 @@ url_pdf: https://arc.aiaa.org/doi/10.2514/1.G003791
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "An aircraft in a﻿two-dimensional von Kármán turbulence field."
+  caption: "Optimized stiffness and thickness distributions."
   focal_point: ""
   preview_only: false
 
@@ -56,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- NonlinearTheory
+- FlexibleAC
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

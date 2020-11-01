@@ -8,28 +8,27 @@ authors:
 - Xuerui Wang
 - Coen C de Visser
 - Qiping Chu 
-date: "2017-04-01T00:00:00Z"
+date: "2018-01-08T00:00:00Z"
 doi: ""
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2018-01-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Aerospace Science and Technology
-, 87*"
-publication_short: In *AST*
+publication: "*American Institute of Aeronautics and Astronautics*"
+publication_short: In *AIAA-GNC-2018*
 
-abstract: This paper proposes an Incremental Sliding Mode Control driven by Sliding Mode Disturbance Observers (INDI-SMC/SMDO), with application to a quadrotor fault tolerant control problem. By designing the SMC/SMDO based on the control structure of the sensor-based Incremental Nonlinear Dynamic Inversion (INDI), instead of the model-based Nonlinear Dynamic Inversion (NDI) in the literature, the model dependency of the controller and the uncertainties in the closed-loop system are simultaneously reduced. This allows INDI-SMC/SMDO to passively resist a wider variety of faults and external disturbances using continuous control inputs with lower control and observer gains. When applied to a quadrotor, both numerical simulations and real-world flight tests demonstrate that INDI based SMC/SMDO has better performance and robustness over NDI based SMC/SMDO, in the presence of model uncertainties, wind disturbances, and sudden actuator faults. Moreover, the implementation process is simplified because of the reduced model dependency and smaller uncertainty variations of INDI-SMC/SMDO. Therefore, the proposed control method can be easily implemented to improve the performance and survivability of quadrotors in real life.
+abstract: ﻿This paper presents a novel active gust load alleviation approach within a multi-objective flight control framework developed by NASA for a flexible wing aircraft. The aircraft model is based on the NASA Generic Transport Model (GTM). The wing structures incorporate an aerodynamic control surface known as the Variable Camber Continuous Trailing Edge Flap (VCCTEF). Previous work already showed the ability of the VCCTEF to perform aeroelastic mode suppression, drag minimization and maneuver load alleviation in a multi-objective flight control framework. In this paper, the multi-objective flight control framework is extended to include active gust load alleviation. A Linear-Quadratic Gaussian (LQG) controller is augmented with Model Reference Adaptive Control (MRAC) to pro- vide active gust load alleviation. Disturbance estimation is done using an Extended State Observer (ESO) to support the design of the active gust load alleviation controller. The results demonstrate the potential of active gust load alleviation within a multi-objective flight control framework for a high-aspect ratio flexible wing aircraft embodied with the VCCTEF.
 
 # Summary. An optional shortened abstract.
-summary: This work introduces a novel control method named Incremental Sliding Mode Control, which greatly reduces model dependency and improves the robustness against uncertainties. The algorithm has been validated in a quadrotor fault-tolerant control problem in real flight.
+summary: This paper presents a novel flexible aircraft active gust load alleviation approach in collaboration with NASA Ames.
 
 tags:
 # - Source Themes
@@ -38,7 +37,7 @@ featured: false
 # links:
 # - name: IEEE Spectrum
 #   url: https://spectrum.ieee.org/automaton/robotics/drones/quadrotor-maintains-high-speed-flight-with-just-three-rotors
-url_pdf: https://www.researchgate.net/publication/331584654_Quadrotor_Fault_Tolerant_Incremental_Sliding_Mode_Control_driven_by_Sliding_Mode_Disturbance_Observers
+url_pdf: https://arc.aiaa.org/doi/10.2514/6.2018-0620
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -51,7 +50,7 @@ url_pdf: https://www.researchgate.net/publication/331584654_Quadrotor_Fault_Tole
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "A photo for the damaged quadrotor."
+  caption: "A flexible aircraft with Variable Camber Continuous Trailing Edge Flap."
   focal_point: ""
   preview_only: false
 

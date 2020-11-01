@@ -3,7 +3,7 @@ title: Aircraft Fault Tolerant Control
 summary: In this project, we design nonlinear control algorthims to improve aircraft safety in the presence of actuator faults and structural damage.
 tags:
 - Aircraft Fault Tolerant Control
-date: "2016-04-27T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

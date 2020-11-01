@@ -3,13 +3,13 @@ title: Flexible Aircraft Control
 summary: In this project, we design nonlinear control algorithms for high aspect-ratio aircraft with the interactions among aerodynamics, structural dynamics, and flight dynamics. 
 tags:
 - Flexible Aircraft Control
-date: "2020-04-27T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: A quadrotor flies with 3 propellers.
+  caption: A sketch for a high aspect-ratio glider aircraft.
   focal_point: Smart
 
 # links:
@@ -34,11 +34,11 @@ Increasing the aspect-ratio of the wing is a trend in modern commercial aircraft
 
 This trend leads to considerable interactions among aerodynamics, structural dynamics, and flight dynamics. If not harnessed properly, the interactions can lead to severe structural vibrations and even instabilities. In view of this, we conduct interdisciplinary research on flexible aircraft dynamic control with multiple objectives:
 
-Flutter suppression 
-Gust and maneuver load alleviation 
-Handling quality and passenger comfort enhancement
-Automatic trajectory control
-Fault-tolerant control
+* Flutter suppression 
+* Gust and maneuver load alleviation 
+* Handling quality and passenger comfort enhancement
+* Automatic trajectory control
+* Fault-tolerant control
 
 
 

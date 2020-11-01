@@ -5,11 +5,11 @@ authors:
 - Sihao Sun
 - Erik-Jan van Kampen
 - Qiping Chu
-date: "2017-04-01T00:00:00Z"
+date: "2019-03-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2019-03-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,8 +18,7 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Aerospace Science and Technology
-, 87*"
+publication: "*Aerospace Science and Technology, 2019, Vol 87*"
 publication_short: In *AST*
 
 abstract: This paper proposes an Incremental Sliding Mode Control driven by Sliding Mode Disturbance Observers (INDI-SMC/SMDO), with application to a quadrotor fault tolerant control problem. By designing the SMC/SMDO based on the control structure of the sensor-based Incremental Nonlinear Dynamic Inversion (INDI), instead of the model-based Nonlinear Dynamic Inversion (NDI) in the literature, the model dependency of the controller and the uncertainties in the closed-loop system are simultaneously reduced. This allows INDI-SMC/SMDO to passively resist a wider variety of faults and external disturbances using continuous control inputs with lower control and observer gains. When applied to a quadrotor, both numerical simulations and real-world flight tests demonstrate that INDI based SMC/SMDO has better performance and robustness over NDI based SMC/SMDO, in the presence of model uncertainties, wind disturbances, and sudden actuator faults. Moreover, the implementation process is simplified because of the reduced model dependency and smaller uncertainty variations of INDI-SMC/SMDO. Therefore, the proposed control method can be easily implemented to improve the performance and survivability of quadrotors in real life.

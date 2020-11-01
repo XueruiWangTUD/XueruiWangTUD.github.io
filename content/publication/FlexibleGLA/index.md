@@ -5,12 +5,12 @@ authors:
 - Erik-Jan van Kampen
 - Qiping Chu
 - Roeland De Breuker
-date: "2017-04-01T00:00:00Z"
+date: "2019-02-28T00:00:00Z"
 doi: ""
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2019-02-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +19,20 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Aerospace Science and Technology
-, 87*"
-publication_short: In *AST*
+publication: "*﻿Journal of Guidance, Control, and Dynamics, 2019, Vol 42*"
+publication_short: In *JGCD*
 
-abstract: This paper proposes an Incremental Sliding Mode Control driven by Sliding Mode Disturbance Observers (INDI-SMC/SMDO), with application to a quadrotor fault tolerant control problem. By designing the SMC/SMDO based on the control structure of the sensor-based Incremental Nonlinear Dynamic Inversion (INDI), instead of the model-based Nonlinear Dynamic Inversion (NDI) in the literature, the model dependency of the controller and the uncertainties in the closed-loop system are simultaneously reduced. This allows INDI-SMC/SMDO to passively resist a wider variety of faults and external disturbances using continuous control inputs with lower control and observer gains. When applied to a quadrotor, both numerical simulations and real-world flight tests demonstrate that INDI based SMC/SMDO has better performance and robustness over NDI based SMC/SMDO, in the presence of model uncertainties, wind disturbances, and sudden actuator faults. Moreover, the implementation process is simplified because of the reduced model dependency and smaller uncertainty variations of INDI-SMC/SMDO. Therefore, the proposed control method can be easily implemented to improve the performance and survivability of quadrotors in real life.
-
+abstract: This paper designs an incremental nonlinear dynamic inversion control law for free-flying flexible aircraft, which can regulate rigid-body motions, alleviate gust loads, reduce the wing root bending moment, and suppress elastic modes. By fully exploring the sensormeasurements, the modeldependency ofthe proposed control law can be reduced while maintaining desirable robustness, which simplifies the implementation process and reduces the onboard computational load. The elastic states are observed online from accelerometer measurements, with a Padé approximation to model the pure time delay. Theoretical analyses based on the Lyapunov methods and the nonlinear system perturbation theory show that the proposed control has inherent robustness to model uncertainties, external disturbances, and sudden actuator faults. These merits are demonstrated by time-domain simulations in various spatial turbulence and gust fields, as well as by a Monte Carlo study.
 # Summary. An optional shortened abstract.
-summary: This work introduces a novel control method named Incremental Sliding Mode Control, which greatly reduces model dependency and improves the robustness against uncertainties. The algorithm has been validated in a quadrotor fault-tolerant control problem in real flight.
-
+summary: ﻿This paper designs an incremental nonlinear dynamic inversion control law for free-flying flexible aircraft, which can regulate rigid-body motions, alleviate gust loads, reduce the wing root bending moment, and suppress elastic modes.
 tags:
 # - Source Themes
 featured: false
 
 # links:
 # - name: IEEE Spectrum
-#   url: https://spectrum.ieee.org/automaton/robotics/drones/quadrotor-maintains-high-speed-flight-with-just-three-rotors
-url_pdf: https://www.researchgate.net/publication/331584654_Quadrotor_Fault_Tolerant_Incremental_Sliding_Mode_Control_driven_by_Sliding_Mode_Disturbance_Observers
+#   url: ﻿https://arc.aiaa.org/doi/10.2514/1.G003980
+url_pdf: https://arc.aiaa.org/doi/full/10.2514/1.G003980
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -48,7 +45,7 @@ url_pdf: https://www.researchgate.net/publication/331584654_Quadrotor_Fault_Tole
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "A photo for the damaged quadrotor."
+  caption: "Flexible aircraft INDI gust load alleviation control law structure."
   focal_point: ""
   preview_only: false
 

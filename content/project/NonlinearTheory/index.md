@@ -3,13 +3,13 @@ title: Nonlinear Control Theory
 summary: In this project, we analyze the closed-loop stabiltiy and robustness of systems under nonlinear control, using Lyapunov methods and the nonlinear system perturbation theory.
 tags:
 - Nonlinear Control Theory
-date: "2020-04-27T00:00:00Z"
+date: "2016-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: A quadrotor flies with 3 propellers.
+  caption: Influences of sampling interval and gains on the ultimate bounds.
   focal_point: Smart
 
 # links:

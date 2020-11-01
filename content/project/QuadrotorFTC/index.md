@@ -3,7 +3,7 @@ title: Quadrotor Fault Tolerant Control
 summary: In this project, we design fault-tolerant control algorithms for quadrotors with complete loss of one or more rotors in high-speed flights.
 tags:
 - Quadrotor Fault Tolerant Control
-date: "2020-04-27T00:00:00Z"
+date: "2020-08-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
