@@ -9,19 +9,18 @@ date: "2019-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: An aircraft with structural damage.
   focal_point: Smart
-  preview_only: true
 
 # links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,7 +29,8 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
 The main goal of this research is to improve aircraft safety by developing advanced nonlinear control methods that can tolerate actuator faults, structural damage and atmospheric disturbances. One of the featured methods is the incremental sliding mode control, which is a hybrid between the sensor-based incremental control and the robust sliding mode control.
 
-{{< figure src="MonteCarlo.png" title="A caption" width="200" >}}
+
+
+
