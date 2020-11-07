@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Seamless Active Morphing Wing</title>
+      <link>/project/seamlessmorphing/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/seamlessmorphing/</guid>
+      <description>&lt;p&gt;Active morphing indicates the ability to transform structural shape in a controlled way. Inspired by birds, the active morphing wing can adapt its shape in different flight conditions for optimizing the aerodynamic performance. Moreover, wing morphing surfaces can be used as direct lift control devices for alleviating the structural loads caused by gusts and maneuvers. Furthermore, wing morphing can execute flight control commands with reduced drag.&lt;/p&gt;
+&lt;p&gt;The Smart and Aeroelastic Structure research group in Delft University of Technology has designed, manufactured, and tested a seamless active morphing wing named 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SdagIiYRWyA&amp;amp;t=316s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SmartX-Alpha&lt;/strong&gt;&lt;/a&gt;. It has six translation-induced camber morphing trailing edge modules, interconnected seamlessly by elastomer materials. Each one of the modules is executed by two independent servos, which allows both camber and twist morphings. The wing is made in fiberGlass weave material, and its laminate design is optimized by a fluid-structure  interaction tool.&lt;/p&gt;
+&lt;p&gt;The SmartX-Alpha prototype won the Student Hardware Competition in the American Society of Mechanical Engineers (ASME) 2020 conference on smart materials, adaptive structures and intelligent systems. If you would like to know more, please check the 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SdagIiYRWyA&amp;amp;t=316s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SmartX-Alpha video&lt;/strong&gt;&lt;/a&gt; and a journalistic article entitled 
+&lt;a href=&#34;https://www.delta.tudelft.nl/article/flexible-wing-flies-feeling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flexible wing flies with feeling&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor Fault Tolerant Control</title>
+      <link>/project/quadrotorftc/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/quadrotorftc/</guid>
+      <description>&lt;p&gt;As the most commonly used and simplest multi-rotor drones, quadrotors are
+especially vulnerable to rotor failures because they lack rotor redundancy. This project aims at introducing novel flight control methods to mitigate the consequence of in-flight motor failures, which rarely happens but is still a big safety threat after large scale deployment of drones in the future.&lt;/p&gt;
+&lt;p&gt;To be specific, the project leverages incremental nonlinear dynamic inversion (INDI) control method, to stabilize and control a quadrotor with failure of a 
+&lt;a href=&#34;/publication/highspeedral/&#34;&gt;&lt;strong&gt;single rotor&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;/publication/incrementalnonlinear/&#34;&gt;&lt;strong&gt;two opposing rotors&lt;/strong&gt;&lt;/a&gt;, under significant aerodynamic disturbances. These strong aerodynamic effects are dominant in high-speed flight, or windy conditions. Thanks to the robustness of the INDI controller, the damaged quadrotor maintains controllable in spite of these aeordynamic disturbances.&lt;/p&gt;
+&lt;p&gt;We have validated the proposed controllers in a large scale wind tunnel, named 
+&lt;a href=&#34;https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/facilities/low-speed-wind-tunnels/open-jet-facility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Open Jet Facility&lt;/strong&gt;&lt;/a&gt; at TU Delft. Despite a complete loss of one or two propellers, the tested quadrotor can maintain high-speed flight. In addition to validating the controller, these wind tunnel flight tests have produced valuable data for identifying 
+&lt;a href=&#34;/project/quadrotormodeling&#34;&gt;&lt;strong&gt;aerodynamic models&lt;/strong&gt;&lt;/a&gt; of a quadrotor, in both nominal and damaged conditions.&lt;/p&gt;
+&lt;p&gt;Another focus of the research aims at recovering the damaged quadrotor after motor failure. When a motor failure is detected, a quadrotor might have been entered a detrimental flight condition, such as an upside-down orientation, where the drone can hardly recover to stable flights using the state-of-art methods.
+Therefore, we have developed an 
+&lt;a href=&#34;/publication/upsetrecovery/&#34;&gt;&lt;strong&gt;upset recovery controller&lt;/strong&gt;&lt;/a&gt;, using a novel control allocation approach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Nonlinear Fault-Tolerant Control of a Quadrotor With Complete Loss of Two Opposing Rotors</title>
+      <link>/publication/incrementalnonlinear/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/incrementalnonlinear/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-speed flight of quadrotor despite loss of single rotor</title>
+      <link>/publication/highspeedral/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/highspeedral/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexible Aircraft Control</title>
+      <link>/project/flexibleac/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flexibleac/</guid>
+      <description>&lt;p&gt;Increasing the aspect-ratio of the wing is a trend in modern commercial aircraft design. This increase is beneficial for the aerodynamic performance of the aircraft. Moreover, to reduce the airframe weight, composite materials are widely used in modern aircraft. For example, the Boeing 787 Dreamliner aircraft uses 80% composite by volume, and 50% composite by weight. Although composite materials provide the same load-carrying capacity with less structural weight, the resulting structural rigidity also decreases. With the coaction of high aspect-ratio and wide usage of composite materials, modern commercial aircraft are becoming more and more flexible.&lt;/p&gt;
+&lt;p&gt;This trend leads to considerable interactions among aerodynamics, structural dynamics, and flight dynamics. If not harnessed properly, the interactions can lead to severe structural vibrations and even instabilities. In view of this, we conduct interdisciplinary research on flexible aircraft dynamic control with multiple objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flutter suppression&lt;/li&gt;
+&lt;li&gt;Gust and maneuver load alleviation&lt;/li&gt;
+&lt;li&gt;Handling quality and passenger comfort enhancement&lt;/li&gt;
+&lt;li&gt;Automatic trajectory control&lt;/li&gt;
+&lt;li&gt;Fault-tolerant control&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor fault-tolerant incremental nonsingular terminal sliding mode control</title>
+      <link>/publication/quad_intsmc/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/quad_intsmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>﻿Comparison of three control structures for inducing higher-order sliding modes</title>
+      <link>/publication/hosmc/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hosmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor fault tolerant incremental sliding mode control driven by sliding mode disturbance observers</title>
+      <link>/publication/quadsmdo/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/quadsmdo/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexible Aircraft Gust Load Alleviation with Incremental Nonlinear Dynamic Inversion</title>
+      <link>/publication/flexiblegla/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flexiblegla/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stability Analysis for Incremental Nonlinear Dynamic Inversion Control</title>
+      <link>/publication/stability/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/stability/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Sliding-Mode Fault-Tolerant Flight Control</title>
+      <link>/publication/f16_indi_smc/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/f16_indi_smc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Backstepping Sliding-Mode Fault-Tolerant Flight Control</title>
+      <link>/publication/ibsmc/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ibsmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aircraft Fault Tolerant Control</title>
+      <link>/project/aircraft_ftc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/aircraft_ftc/</guid>
+      <description>&lt;p&gt;The main goal of this research is to improve aircraft safety by developing advanced nonlinear control methods that can tolerate actuator faults, structural damage and atmospheric disturbances. One of the featured methods is the incremental sliding mode control, which is a hybrid between the sensor-based incremental control and the robust sliding mode control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/people/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Gust Load Alleviation of High-Aspect Ratio Flexible Wing Aircraft</title>
+      <link>/publication/yvonne/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/yvonne/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effects of Aeroelastic Tailoring on Flight Dynamic Stability</title>
+      <link>/publication/mario_paper/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mario_paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On structural property metrics for Model Error of linear systems</title>
+      <link>/publication/acc_paper/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/acc_paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Control Theory</title>
+      <link>/project/nonlineartheory/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nonlineartheory/</guid>
+      <description>&lt;p&gt;This page contains our contributions to the control community. We proposed a new sensor-based incremental control framework for generic multi-input and multi-output nonlinear systems with an arbitrary relative degree. The closed-loop stability in the presence of model uncertainties and external disturbances are proved using Lyapunov methods. The robustness of the system to regular and singular perturbations are also analyzed.&lt;/p&gt;
+&lt;p&gt;For mitigating the chattering effect in the sliding mode control (SMC), many adaptation mechanisms have been proposed to reduce the switching gains. However, less attention is paid to the control structure, which influences the resulting uncertainty term and determines the minimum possible gains. Our research compares three control structures for inducing higher-order sliding modes in finite time: nonlinear dynamic inversion (NDI) based SMC, higher-order sliding mode control (HOSMC) with artificially increased relative degree, and the recently proposed incremental nonlinear dynamic inversion (INDI) based SMC.&lt;/p&gt;
+&lt;p&gt;We also define the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

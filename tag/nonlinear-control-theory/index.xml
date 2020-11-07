@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonlinear Control Theory | Academic</title>
+    <link>/tag/nonlinear-control-theory/</link>
+      <atom:link href="/tag/nonlinear-control-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonlinear Control Theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nonlinear Control Theory</title>
+      <link>/tag/nonlinear-control-theory/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Control Theory</title>
+      <link>/project/nonlineartheory/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nonlineartheory/</guid>
+      <description>&lt;p&gt;This page contains our contributions to the control community. We proposed a new sensor-based incremental control framework for generic multi-input and multi-output nonlinear systems with an arbitrary relative degree. The closed-loop stability in the presence of model uncertainties and external disturbances are proved using Lyapunov methods. The robustness of the system to regular and singular perturbations are also analyzed.&lt;/p&gt;
+&lt;p&gt;For mitigating the chattering effect in the sliding mode control (SMC), many adaptation mechanisms have been proposed to reduce the switching gains. However, less attention is paid to the control structure, which influences the resulting uncertainty term and determines the minimum possible gains. Our research compares three control structures for inducing higher-order sliding modes in finite time: nonlinear dynamic inversion (NDI) based SMC, higher-order sliding mode control (HOSMC) with artificially increased relative degree, and the recently proposed incremental nonlinear dynamic inversion (INDI) based SMC.&lt;/p&gt;
+&lt;p&gt;We also define the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

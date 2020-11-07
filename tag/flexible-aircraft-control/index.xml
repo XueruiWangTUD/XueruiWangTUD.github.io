@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexible Aircraft Control | Academic</title>
+    <link>/tag/flexible-aircraft-control/</link>
+      <atom:link href="/tag/flexible-aircraft-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flexible Aircraft Control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Flexible Aircraft Control</title>
+      <link>/tag/flexible-aircraft-control/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Aircraft Control</title>
+      <link>/project/flexibleac/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flexibleac/</guid>
+      <description>&lt;p&gt;Increasing the aspect-ratio of the wing is a trend in modern commercial aircraft design. This increase is beneficial for the aerodynamic performance of the aircraft. Moreover, to reduce the airframe weight, composite materials are widely used in modern aircraft. For example, the Boeing 787 Dreamliner aircraft uses 80% composite by volume, and 50% composite by weight. Although composite materials provide the same load-carrying capacity with less structural weight, the resulting structural rigidity also decreases. With the coaction of high aspect-ratio and wide usage of composite materials, modern commercial aircraft are becoming more and more flexible.&lt;/p&gt;
+&lt;p&gt;This trend leads to considerable interactions among aerodynamics, structural dynamics, and flight dynamics. If not harnessed properly, the interactions can lead to severe structural vibrations and even instabilities. In view of this, we conduct interdisciplinary research on flexible aircraft dynamic control with multiple objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flutter suppression&lt;/li&gt;
+&lt;li&gt;Gust and maneuver load alleviation&lt;/li&gt;
+&lt;li&gt;Handling quality and passenger comfort enhancement&lt;/li&gt;
+&lt;li&gt;Automatic trajectory control&lt;/li&gt;
+&lt;li&gt;Fault-tolerant control&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
