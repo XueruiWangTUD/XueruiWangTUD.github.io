@@ -92,29 +92,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>High-speed flight of quadrotor despite loss of single rotor</title>
-      <link>/publication/highspeedral/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/highspeedral/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Flexible Aircraft Control</title>
       <link>/project/flexibleac/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
@@ -326,18 +303,33 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Landing Page</title>
-      <link>/people/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landing Page</title>
       <link>/teaching/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>High-speed flight of quadrotor despite loss of single rotor</title>
+      <link>/publication/highspeedral/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/highspeedral/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -418,6 +410,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;p&gt;For mitigating the chattering effect in the sliding mode control (SMC), many adaptation mechanisms have been proposed to reduce the switching gains. However, less attention is paid to the control structure, which influences the resulting uncertainty term and determines the minimum possible gains. Our research compares three control structures for inducing higher-order sliding modes in finite time: nonlinear dynamic inversion (NDI) based SMC, higher-order sliding mode control (HOSMC) with artificially increased relative degree, and the recently proposed incremental nonlinear dynamic inversion (INDI) based SMC.&lt;/p&gt;
 &lt;p&gt;We also define the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -103,16 +103,6 @@
   </url>
   
   <url>
-    <loc>/publication/highspeedral/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/leon-sijbers/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/flexible-aircraft-control/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -198,13 +188,18 @@
   </url>
   
   <url>
-    <loc>/people/</loc>
+    <loc>/teaching/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/highspeedral/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leon-sijbers/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -278,6 +273,10 @@
   </url>
   
   <url>
+    <loc>/people/</loc>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
@@ -286,7 +285,27 @@
   </url>
   
   <url>
+    <loc>/author/jing-chang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/oscar-ruland/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/simon-van-overeem/</loc>
+  </url>
+  
+  <url>
     <loc>/author/xuerui-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yvonne-ferrier/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/alvaro-estebanluengo/</loc>
   </url>
   
 </urlset>
