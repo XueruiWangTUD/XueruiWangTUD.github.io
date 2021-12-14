@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for Aerospace Control | Xuerui Wang</title>
+    <link>/tag/ai-for-aerospace-control/</link>
+      <atom:link href="/tag/ai-for-aerospace-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI for Aerospace Control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AI for Aerospace Control</title>
+      <link>/tag/ai-for-aerospace-control/</link>
+    </image>
+    
+    <item>
+      <title>AI for Aerospace Control and Optimization</title>
+      <link>/project/aiaerocontrol/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/aiaerocontrol/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) has great potential to solve the control and optimization problems of aerospace systems. In this project, we explore the following possibilties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Online aerodynamic performance optimization&lt;/li&gt;
+&lt;li&gt;Gust and maneuver load alleviation&lt;/li&gt;
+&lt;li&gt;Fault-tolerant control&lt;/li&gt;
+&lt;li&gt;Suppression of limit-cycle oscillations&lt;/li&gt;
+&lt;li&gt;Mechanical imperfection compensation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
