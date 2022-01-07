@@ -79,6 +79,16 @@ Therefore, we have developed an
     </item>
     
     <item>
+      <title>The Flying-V Aircraft</title>
+      <link>/project/flyingv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flyingv/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.tudelft.nl/en/ae/flying-v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flying-V&lt;/strong&gt;&lt;/a&gt; is a specific type of flying wing that is tailless, V-shaped, and consists of two cylindrical pressurised cabins located at the leading edge of the wing. The design of a Flying-V aircraft concept contains several benefits compared to conventional tube-and-wing aircraft. The main advantage of this type of aircraft is the reduction of wetted area and frictional drag since one structure integrates the structural function of accommodating payload and the aerodynamic function of providing lift. Furthermore, this type of aircraft suffers less from interference drag due to the smooth shape of the configuration. Additionally, the reduced wetted area per unit of useful volume results in a reduction of the zero-lift drag. Therefore, this type of aircraft can achieve a higher lift-to-drag ratio compared to conventional aircraft and hence has a reduced fuel burn and takeoff weight. Research on the aerodynamic advantages of the Flying-V presents that the aircraft can have aerodynamic efficiency gains ranging from 10% to 25% compared to conventional tube-and-wing aircraft of similar size and weight while reducing the noise level due to the location of the engines on top of the wing. This project focuses on the dynamic modelling, handling quality assessment, and control design for the Flying V aircraft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Aircraft Fault Tolerant Control</title>
       <link>/project/aircraft_ftc/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>

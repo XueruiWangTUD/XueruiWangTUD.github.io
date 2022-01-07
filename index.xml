@@ -5,12 +5,104 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuerui Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Aeroelastic Wing Demonstrator with a Distributed and Decentralized Control Architecture</title>
+      <link>/publication/tigranscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tigranscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black-box Online Aerodynamic Performance Optimization for a Seamless Wing with Distributed Morphing</title>
+      <link>/publication/oscarscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/oscarscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete-time Design and Stability Analysis for Nonlinear Incremental Fault-tolerant Flight Control</title>
+      <link>/publication/jingscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jingscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling and Handling Quality Assessment of the Flying-V Aircraft</title>
+      <link>/publication/simonscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/simonscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Event-triggered intelligent critic control with input constraints applied to a nonlinear aeroelastic system</title>
@@ -208,6 +300,16 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;li&gt;Automatic trajectory control&lt;/li&gt;
 &lt;li&gt;Fault-tolerant control&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Flying-V Aircraft</title>
+      <link>/project/flyingv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flyingv/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.tudelft.nl/en/ae/flying-v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flying-V&lt;/strong&gt;&lt;/a&gt; is a specific type of flying wing that is tailless, V-shaped, and consists of two cylindrical pressurised cabins located at the leading edge of the wing. The design of a Flying-V aircraft concept contains several benefits compared to conventional tube-and-wing aircraft. The main advantage of this type of aircraft is the reduction of wetted area and frictional drag since one structure integrates the structural function of accommodating payload and the aerodynamic function of providing lift. Furthermore, this type of aircraft suffers less from interference drag due to the smooth shape of the configuration. Additionally, the reduced wetted area per unit of useful volume results in a reduction of the zero-lift drag. Therefore, this type of aircraft can achieve a higher lift-to-drag ratio compared to conventional aircraft and hence has a reduced fuel burn and takeoff weight. Research on the aerodynamic advantages of the Flying-V presents that the aircraft can have aerodynamic efficiency gains ranging from 10% to 25% compared to conventional tube-and-wing aircraft of similar size and weight while reducing the noise level due to the location of the engines on top of the wing. This project focuses on the dynamic modelling, handling quality assessment, and control design for the Flying V aircraft.&lt;/p&gt;
 </description>
     </item>
     

@@ -3,12 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tigranscitech2022/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oscarscitech2022/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jingscitech2022/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/erik-jan-van-kampen/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jing-chang/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/simonscitech2022/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oscar-ruland/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roeland-de-breuker/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/simon-van-overeem/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tigran-mkhoyan/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuerui-wang/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,32 +93,7 @@
   </url>
   
   <url>
-    <loc>/author/erik-jan-van-kampen/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/bosunevent/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xuerui-wang/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,16 +129,6 @@
   
   <url>
     <loc>/publication/glider/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roeland-de-breuker/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tigran-mkhoyan/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,13 +208,18 @@
   </url>
   
   <url>
-    <loc>/publication/quad_intsmc/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <loc>/tag/the-flying-v-aircraft/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <loc>/project/flyingv/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/quad_intsmc/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
