@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuerui Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>WM0324LR Ethics and Engineering for Aerospace</title>
+      <link>/course/ethics/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/course/ethics/</guid>
+      <description>&lt;p&gt;This is an MSc profile course. This course describes and analyses the responsibility of engineers in the light of philosophical, historical and juridical backgrounds. Topics covered include 1) Description and analysis of the problems encountered by engineers who want to act responsibly; 2) Codes of ethics for engineers. 3) Argumentation and reasoning. 4) Uncertainty, ignorance, risks, and their implications for responsible behaviour. 5) (Philosophical) ethics, the foundation of (criteria) for good and bad, right and wrong, responsible and irresponsible behaviour; 6) Responsibility within and of organizations; 7) the role of law. Since 2021, I act as a tutor and essay supervisor for the course in every Q3.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aeroelastic Wing Demonstrator with a Distributed and Decentralized Control Architecture</title>
@@ -213,24 +222,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>AE4ASM522  Applied Aircraft Aeroelasticity (2020/21 Q4)</title>
-      <link>/course/ae4asm522/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/course/ae4asm522/</guid>
-      <description>&lt;p&gt;This course is a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AE4311 Non-linear and Adaptive Flight Control (2020/21 Q4)</title>
-      <link>/course/ae4311/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/course/ae4311/</guid>
-      <description>&lt;p&gt;This course introduces nonlinear and adaptive control techniques to enhance reconfigurabilities of aircraft flight control systems. Advanced nonlinear and adaptive control techniques such as Adaptive Nonlinear Dynamic Inversion (ANDI), Incremental Nonlinear Dynamic Inversion (INDI), Adaptive Backstepping (ABS) and Incremental Backstepping are described together with applications to fault tolerant and reconfigurable aircraft flight control system designs. I gave a guest lecture on the theoretical improvements of the NDI control method. The applications of INDI on launch vehicle propellant slosh and seamless morphing wings were also presented.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Seamless Active Morphing Wing</title>
       <link>/project/seamlessmorphing/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -241,6 +232,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;p&gt;The SmartX-Alpha prototype won the Student Hardware Competition in the American Society of Mechanical Engineers (ASME) 2020 conference on smart materials, adaptive structures and intelligent systems. If you would like to know more, please check the 
 &lt;a href=&#34;https://www.youtube.com/watch?v=SdagIiYRWyA&amp;amp;t=316s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SmartX-Alpha video&lt;/strong&gt;&lt;/a&gt; and a journalistic article entitled 
 &lt;a href=&#34;https://www.delta.tudelft.nl/article/flexible-wing-flies-feeling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flexible wing flies with feeling&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE4311 Non-linear and Adaptive Flight Control</title>
+      <link>/course/ae4311/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/course/ae4311/</guid>
+      <description>&lt;p&gt;This is an MSc elective course. It introduces nonlinear and adaptive control techniques to enhance the reconfigurability of aircraft flight control systems. Advanced nonlinear and adaptive control techniques such as Adaptive Nonlinear Dynamic Inversion (ANDI), Incremental Nonlinear Dynamic Inversion (INDI), Adaptive Backstepping (ABS) and Incremental Backstepping are described together with applications to fault-tolerant and reconfigurable aircraft flight control system designs. I am a guest lecturer for the INDI control theory part in every Q4 since 2020.&lt;/p&gt;
 </description>
     </item>
     
@@ -300,6 +300,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;li&gt;Automatic trajectory control&lt;/li&gt;
 &lt;li&gt;Fault-tolerant control&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE4ASM522 Applied Aircraft Aeroelasticity</title>
+      <link>/course/ae4asm522/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/course/ae4asm522/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. Since 2020, I teach and evaluate around 50% of this course in every Q4. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity.&lt;/p&gt;
 </description>
     </item>
     
