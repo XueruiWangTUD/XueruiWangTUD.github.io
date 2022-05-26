@@ -5,12 +5,23 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuerui Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>AERO0003 Flight Dynamics and Control</title>
+      <link>/course/belgium/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/course/belgium/</guid>
+      <description>&lt;p&gt;This is a MSc profile course at the University of Liège, Belgium. This course focuces on the flight dynamics and control of fixed-wing aircaft and helicopter. I was invited by 
+&lt;a href=&#34;https://scholar.google.com/citations?user=i7puvt4AAAAJ&amp;amp;hl=en&amp;amp;oi=sra&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Grigorios Dimitriadis&lt;/a&gt; and 
+&lt;a href=&#34;https://scholar.google.com/citations?user=hWAm2FEAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Christophe Collette&lt;/a&gt; to give three four-hour lectures physically at the University of Liège. My lectures cover the control design as well as stability and robustness analysis of fixed-wing and helicopter aircraft flight control.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>WM0324LR Ethics and Engineering for Aerospace</title>
@@ -589,6 +600,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE2235-II Signal Analysis and Telecommunication Principles</title>
+      <link>/course/ae2235signal/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/course/ae2235signal/</guid>
+      <description>&lt;p&gt;This is a BSc course that focuses on signal acquisition, processing and filtering. By learning this course, students will be able to apply frequency domain techniques to signal conditioning and processing, know building blocks and electronic components, apply signal modulation, produce a signal link budget, evaluate stability properties of closed and open-loop systems, and tune control systems with classical tuning methods. It also contains an experimental classroom, in which real-world derives including Light Sensor under a Rotating Disc, Accelerometer on a Cantilever Beam, Rate Gyro on a Pendulum, Pressure Sensor behind a Propeller that help students to understand Fourier transforms, aliasing, leakage, etc. Since 2017, I act an experimental classroom tutor in every Q4.&lt;/p&gt;
 </description>
     </item>
     

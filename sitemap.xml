@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/course/belgium/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/</loc>
-    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/courses/</loc>
-    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/ethics/</loc>
-    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/ethics/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,6 +348,11 @@
   </url>
   
   <url>
+    <loc>/course/ae2235signal/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/changchuan-xie/</loc>
     <lastmod>2016-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -411,6 +421,10 @@
   </url>
   
   <url>
+    <loc>/author/ir.-simon-van-overeem/</loc>
+  </url>
+  
+  <url>
     <loc>/author/ir.-srikanth-vasudevan/</loc>
   </url>
   
@@ -420,10 +434,6 @@
   
   <url>
     <loc>/author/matthias-wuestenhagen/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/simon-van-overeem/</loc>
   </url>
   
   <url>
