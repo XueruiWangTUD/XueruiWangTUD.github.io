@@ -5,12 +5,21 @@
     <link>/tag/courses/</link>
       <atom:link href="/tag/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>courses</title>
       <link>/tag/courses/</link>
     </image>
+    
+    <item>
+      <title>AE3200 Design Synthesis (DSE)</title>
+      <link>/course/dse/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/course/dse/</guid>
+      <description>&lt;p&gt;This is the BSc graduation project of TU Delft. To finalise their bachelor programme third-year bachelor’s students at the Faculty of Aerospace Engineering are required to collaborate in groups of ten students in a period of ten weeks to make a design in the field of aviation, space, earth observation or related field. During the project, students go through the complete design process, from drawing up a program of demands, concept analysis and design, concept selection to the presentation of the final design. I acted as the principal instructor for Group 26, a ten-student project entitled &amp;ldquo;Air-Guard, A bio-inspired counter-drone morphing UAV&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AERO0003 Flight Dynamics and Control</title>
