@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oscartcst/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oscar-ruland/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roeland-de-breuker/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tigran-mkhoyan/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuerui-wang/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oscarjgcd/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jingjgcd/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jing-chang/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/dse/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url>
@@ -23,47 +88,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/jingtaes/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jing-chang/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roeland-de-breuker/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xuerui-wang/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +104,6 @@
   
   <url>
     <loc>/author/erik-jan-van-kampen/</loc>
-    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tigran-mkhoyan/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,11 +139,6 @@
   
   <url>
     <loc>/publication/simonscitech2022/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/oscar-ruland/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -421,6 +436,10 @@
   
   <url>
     <loc>/services/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/burhanuddin-saify/</loc>
   </url>
   
   <url>
