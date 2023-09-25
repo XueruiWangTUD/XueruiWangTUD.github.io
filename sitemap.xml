@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/course/dynamics/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/courses/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url>
@@ -48,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/oscarjgcd/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url>
@@ -69,21 +89,6 @@
   
   <url>
     <loc>/course/dse/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/courses/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -439,15 +444,15 @@
   </url>
   
   <url>
-    <loc>/author/burhanuddin-saify/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/author/dr.-jing-chang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ir.-burhanuddin-saify/</loc>
   </url>
   
   <url>
@@ -464,6 +469,10 @@
   
   <url>
     <loc>/author/ir.-srikanth-vasudevan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ir.-tingyu-zhang/</loc>
   </url>
   
   <url>
