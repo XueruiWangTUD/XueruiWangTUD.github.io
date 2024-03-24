@@ -3,28 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/course/aiaa-online-course/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/courses/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/dynamics/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/course/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/courses/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+    <loc>/course/ae5051-internship/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>

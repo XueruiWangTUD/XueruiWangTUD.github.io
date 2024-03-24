@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuerui Wang</title>
@@ -13,10 +13,28 @@
     </image>
     
     <item>
+      <title>AIAA Online Course</title>
+      <link>/course/aiaa-online-course/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/course/aiaa-online-course/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AE1130-II Dynamics</title>
       <link>/course/dynamics/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/course/dynamics/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE5051 Internship</title>
+      <link>/course/ae5051-internship/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/ae5051-internship/</guid>
       <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
 </description>
     </item>
