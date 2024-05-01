@@ -39,52 +39,52 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oscarjgcd/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oscar-ruland/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roeland-de-breuker/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tigran-mkhoyan/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuerui-wang/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/oscartcst/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/oscar-ruland/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roeland-de-breuker/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tigran-mkhoyan/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xuerui-wang/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/oscarjgcd/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -455,6 +455,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr.-ir.-tijmen-pollack/</loc>
   </url>
   
   <url>
