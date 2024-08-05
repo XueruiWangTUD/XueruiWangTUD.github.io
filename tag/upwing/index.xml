@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UPWing | Xuerui Wang</title>
+    <link>/tag/upwing/</link>
+      <atom:link href="/tag/upwing/index.xml" rel="self" type="application/rss+xml" />
+    <description>UPWing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>UPWing</title>
+      <link>/tag/upwing/</link>
+    </image>
+    
+    <item>
+      <title>UP Wing</title>
+      <link>/project/upwing/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/project/upwing/</guid>
+      <description>&lt;p&gt;UpWing - 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/101101974&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultra Performance Wing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The EU’s Clean Aviation objectives aim to reduce carbon dioxide emissions, noise and other pollutants from aviation activities in Europe. In this context, the EU-funded UP Wing project will develop key technologies for ultra-efficient short/medium-range aircraft. Specifically, it will integrate ultra-performance wing concepts with the aim of achieving a minimum fuel burn reduction of 30 % compared to the state-of-the-art reference Aircraft A321neo. Bringing together an interdisciplinary consortium consisting of airframe integrators, industry, research establishments, and academia, the project will develop enabling technologies. The project’s outcomes will be well aligned with the development plans of future aircraft entering into service in 2035 with 75 % market penetration until 2050.&lt;/p&gt;
+&lt;p&gt;A sketch of the project can be found in this 
+&lt;a href=&#34;https://www.youtube.com/watch?v=MjrX6GvPGD8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Vedio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our main contribution to this project is a nonlinear, data-driven control algorithm designed to reduce gust-induced loads on the wing in transonic flow conditions. This will result in reduced structural weight and improved efficiency. This control approach will be validated through transonic wind tunnel experiments in 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

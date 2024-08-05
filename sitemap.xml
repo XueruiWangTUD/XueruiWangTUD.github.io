@@ -28,8 +28,33 @@
   </url>
   
   <url>
+    <loc>/tag/awatar/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/awatar/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/dynamics/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/upwing/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/upwing/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -184,11 +209,6 @@
   
   <url>
     <loc>/project/aiaerocontrol/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -495,6 +515,10 @@
   
   <url>
     <loc>/author/matthias-wuestenhagen/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/thymen-woldhuis/</loc>
   </url>
   
   <url>
