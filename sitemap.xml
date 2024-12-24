@@ -466,6 +466,10 @@
   </url>
   
   <url>
+    <loc>/recognitions/</loc>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
@@ -515,6 +519,10 @@
   
   <url>
     <loc>/author/matthias-wuestenhagen/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/patrick-kostelac/</loc>
   </url>
   
   <url>
