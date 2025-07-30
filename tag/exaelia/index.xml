@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EXAELIA | Xuerui Wang</title>
+    <link>/tag/exaelia/</link>
+      <atom:link href="/tag/exaelia/index.xml" rel="self" type="application/rss+xml" />
+    <description>EXAELIA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>EXAELIA</title>
+      <link>/tag/exaelia/</link>
+    </image>
+    
+    <item>
+      <title>EXAELIA</title>
+      <link>/project/exaelia/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/exaelia/</guid>
+      <description>&lt;p&gt;Towards flying testbeds for novel long-range aircraft. Developing radically-changed aircraft concepts comes with high investments and risks.&lt;/p&gt;
+&lt;p&gt;The objective of 
+&lt;a href=&#34;https://exaelia.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXAELIA&lt;/a&gt; is to evaluate flying testbeds that are needed for de-risking the development of those disruptive future long-range aircraft.&lt;/p&gt;
+&lt;p&gt;Our main contributions to this project are developing a free-flying aeroelastic aircraft model and designing a nonlinear data-driven control for the next generation of commerical aircraft.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

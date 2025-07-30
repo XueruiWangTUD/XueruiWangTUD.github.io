@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andres-jurisson/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/feiran-zhao/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/florian-dorfler/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roy-s.-smith/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/feirandeepo/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuerui-wang/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/exaelia/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/exaelia/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/aiaa-online-course/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -18,27 +93,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/awatar/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/awatar/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,16 +123,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/oscarjgcd/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -83,27 +133,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/roeland-de-breuker/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/tigran-mkhoyan/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xuerui-wang/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -506,6 +541,10 @@
   </url>
   
   <url>
+    <loc>/author/ir.-patrick-kostelac/</loc>
+  </url>
+  
+  <url>
     <loc>/author/ir.-roderick-schildkamp/</loc>
   </url>
   
@@ -535,10 +574,6 @@
   
   <url>
     <loc>/author/oscar-rots/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/patrick-kostelac/</loc>
   </url>
   
   <url>
