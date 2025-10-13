@@ -4,12 +4,47 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thymenflyingv/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/salvatore-asaro/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thymen-woldhuis/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuerui-wang/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,26 +59,6 @@
   
   <url>
     <loc>/publication/bosunetadp/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xuerui-wang/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -526,6 +541,10 @@
   </url>
   
   <url>
+    <loc>/author/da-hwi-kim/</loc>
+  </url>
+  
+  <url>
     <loc>/author/dimitrios-bosch/</loc>
   </url>
   
@@ -546,11 +565,19 @@
   </url>
   
   <url>
+    <loc>/author/ir.-jonathan-van-zyle/</loc>
+  </url>
+  
+  <url>
     <loc>/author/ir.-oscar-ruland/</loc>
   </url>
   
   <url>
     <loc>/author/ir.-patrick-kostelac/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ir.-quinten-van-hilten/</loc>
   </url>
   
   <url>
