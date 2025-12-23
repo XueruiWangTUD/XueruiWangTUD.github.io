@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuerui Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Aerial Manipulations</title>
+      <link>/project/quadsr/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/project/quadsr/</guid>
+      <description>&lt;p&gt;Drones have limited load capacities, and developing heavy-lifting drones is costly. Using multiple drones to collaboratively lift a load offers theoretically unlimited load capacities, yet it offers substantial challenges in coordination, planning, estimation, and control. This project aims at algorithmic development to enable agile, robust, and decentralized collaboration to enable collaborative aerial manipulation of a cable-suspended load.&lt;/p&gt;
+&lt;p&gt;We have developed a centralized algorithm, recently published in 
+&lt;a href=&#34;https://www.science.org/doi/abs/10.1126/scirobotics.adu8015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Robotics&lt;/a&gt;. It considers the quadrotors-cables-load system as a whole, and solves the kinodynamic motion planning problem online to generate receding horizon reference trajectories for all quadrotors. The trajectories are subsequently followed by onboard INDI (incremental nonlinear dynamic inversion) controllers to compensate for cable tensions and other external disturbances. Notably, no additional sensors are required to be mounted on the load; instead, the load poses are estimated through quadrotor state estimates. Demo videos can be found 
+&lt;a href=&#34;https://sihaosun.github.io/project/camls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Online Data-Driven Optimization of Aerodynamic Performance for an Unconventional Morphing Aircraft</title>
