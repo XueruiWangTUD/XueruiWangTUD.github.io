@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Control | Xuerui Wang</title>
+    <link>/tag/robust-control/</link>
+      <atom:link href="/tag/robust-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust Control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Robust Control</title>
+      <link>/tag/robust-control/</link>
+    </image>
+    
+    <item>
+      <title>Duality Between Incremental Nonlinear Dynamic Inversion and Quasi-Linear Parameter-Varying Control</title>
+      <link>/publication/tijmenduality/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/tijmenduality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile and Cooperative Aerial Manipulation of a Cable-Suspended Load</title>
+      <link>/publication/sunsr/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/sunsr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

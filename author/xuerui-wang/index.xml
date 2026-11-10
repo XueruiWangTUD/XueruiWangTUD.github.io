@@ -5,12 +5,36 @@
     <link>/author/xuerui-wang/</link>
       <atom:link href="/author/xuerui-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xuerui Wang</title>
       <link>/author/xuerui-wang/</link>
     </image>
+    
+    <item>
+      <title>Duality Between Incremental Nonlinear Dynamic Inversion and Quasi-Linear Parameter-Varying Control</title>
+      <link>/publication/tijmenduality/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/tijmenduality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inertial Inflation and Correction of Control Effectiveness from Wind Tunnel Dynamic Excitations</title>
+      <link>/publication/burhanjgcd/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/burhanjgcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile and Cooperative Aerial Manipulation of a Cable-Suspended Load</title>
+      <link>/publication/sunsr/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/sunsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online Data-Driven Optimization of Aerodynamic Performance for an Unconventional Morphing Aircraft</title>
@@ -79,6 +103,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anti-Bump Switched LPV Control With Delayed Scheduling for Morphing Aircraft</title>
+      <link>/publication/liangtaes/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/liangtaes/</guid>
+      <description></description>
     </item>
     
     <item>

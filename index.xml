@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuerui Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xuerui Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Duality Between Incremental Nonlinear Dynamic Inversion and Quasi-Linear Parameter-Varying Control</title>
+      <link>/publication/tijmenduality/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/tijmenduality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inertial Inflation and Correction of Control Effectiveness from Wind Tunnel Dynamic Excitations</title>
+      <link>/publication/burhanjgcd/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/burhanjgcd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerial Manipulations</title>
@@ -22,6 +38,14 @@
 &lt;a href=&#34;https://www.science.org/doi/abs/10.1126/scirobotics.adu8015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Robotics&lt;/a&gt;. It considers the quadrotors-cables-load system as a whole, and solves the kinodynamic motion planning problem online to generate receding horizon reference trajectories for all quadrotors. The trajectories are subsequently followed by onboard INDI (incremental nonlinear dynamic inversion) controllers to compensate for cable tensions and other external disturbances. Notably, no additional sensors are required to be mounted on the load; instead, the load poses are estimated through quadrotor state estimates. 
 &lt;a href=&#34;https://sihaosun.github.io/ScienceRoboticsCAMLs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo videos can be found here&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Agile and Cooperative Aerial Manipulation of a Cable-Suspended Load</title>
+      <link>/publication/sunsr/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/sunsr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -103,6 +127,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;a href=&#34;https://exaelia.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXAELIA&lt;/a&gt; is to evaluate flying testbeds that are needed for de-risking the development of those disruptive future long-range aircraft.&lt;/p&gt;
 &lt;p&gt;Our main contributions to this project are developing a free-flying aeroelastic aircraft model and designing a nonlinear data-driven control for the next generation of commerical aircraft.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anti-Bump Switched LPV Control With Delayed Scheduling for Morphing Aircraft</title>
+      <link>/publication/liangtaes/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/liangtaes/</guid>
+      <description></description>
     </item>
     
     <item>

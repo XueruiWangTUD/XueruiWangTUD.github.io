@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quasi-LPV Control | Xuerui Wang</title>
+    <link>/tag/quasi-lpv-control/</link>
+      <atom:link href="/tag/quasi-lpv-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quasi-LPV Control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Quasi-LPV Control</title>
+      <link>/tag/quasi-lpv-control/</link>
+    </image>
+    
+    <item>
+      <title>Duality Between Incremental Nonlinear Dynamic Inversion and Quasi-Linear Parameter-Varying Control</title>
+      <link>/publication/tijmenduality/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/tijmenduality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
